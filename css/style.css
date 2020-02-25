@@ -1,0 +1,13 @@
+.btn{
+	border:1px  solid #F97300;
+	background:#F97300;
+    color:#fff;
+    transition: .3s ease-in-out;
+}
+
+.output{
+	border:1px  solid #F97300;
+	background:#F97300;
+    color:#fff;
+    transition: .3s ease-in-out;
+}
